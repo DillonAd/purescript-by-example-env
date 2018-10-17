@@ -2,7 +2,8 @@
 
 ## Usage
 
-All environments require that Docker be installed.
+ - All environments require that Docker be installed.
+ - All `<location-of-purscript-project>` parameters need to be abolute paths
 
 ### Windows
 
