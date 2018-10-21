@@ -1,5 +1,7 @@
 # PureScript By Example Environment
 
+## _This repo has been archived. Any updates can be located [here](https://github.com/DillonAd/Dockerfiles/tree/master/purescript-by-example-env)_
+
 ## Usage
 
  - All environments require that Docker be installed.
